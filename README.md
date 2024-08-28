@@ -1,6 +1,5 @@
 # Moonlight iOS/tvOS
 
-## patroza's repo updated
 
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/kwv8vpwr457lqn25/branch/master?svg=true)](https://ci.appveyor.com/project/cgutman/moonlight-ios/branch/master)
 
